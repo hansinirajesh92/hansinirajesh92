@@ -14,5 +14,7 @@ Python • R • SQL • Statistics • Experimentation/A-B testing • Data Vis
 
 ## Links
 LinkedIn: www.linkedin.com/in/hansini-rajesh-827075214
+
 Email: hr394@cornell.edu (school) || hansinirajesh92@gmail.com (personal)
+
 Resume: 
