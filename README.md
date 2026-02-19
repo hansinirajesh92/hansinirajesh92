@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Hansini 👋
+Applied Statistics @ Cornell | CS background | Interested in Data / Business Analytics
 
-<!--
-**hansinirajesh92/hansinirajesh92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I do
+- Build data-driven analyses and models (Python / R)
+- Design clean workflows: data → analysis → results → decisions
+- Communicate insights with clear visuals + writeups
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+Python • R • SQL • Statistics • Experimentation/A-B testing • Data Visualization
+
+## Links
+LinkedIn: www.linkedin.com/in/hansini-rajesh-827075214
+Email: hr394@cornell.edu (school) || hansinirajesh92@gmail.com (personal)
+Resume: 
