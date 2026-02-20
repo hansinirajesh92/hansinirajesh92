@@ -17,4 +17,4 @@ LinkedIn: www.linkedin.com/in/hansini-rajesh-827075214
 
 Email: hr394@cornell.edu (school) || hansinirajesh92@gmail.com (personal)
 
-Resume: 
+Resume: [PDF](Hansini_Rajesh_Resume.pdf)
