@@ -1,4 +1,4 @@
-# Hi, I’m Hansini 👋
+# Hello, I’m Hansini 👋
 Applied Statistics @ Cornell | CS background | Interested in QUANTITATIVE TRADING/RESEARCH
 
 ## Currently
@@ -16,4 +16,4 @@ LinkedIn: www.linkedin.com/in/hansini-rajesh/
 
 Email: hr394@cornell.edu (school) || hansinirajesh92@gmail.com (personal)
 
-Resume: [PDF](Hansini_Rajesh_Resume.pdf)
+Resume: [PDF](Rajesh_Hansini_Resume.pdf)
