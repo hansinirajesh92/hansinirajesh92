@@ -1,8 +1,7 @@
 # Hello, I’m Hansini 👋
-Applied Statistics @ Cornell | CS background | Interested in QUANTITATIVE TRADING/RESEARCH
+Applied Statistics @ Cornell | CS background 
 
 ## Currently
-- keeping up with a master's degree in statistics with very little math background
 - incessantly searching for jobs 
 - learning more and more about quant trading
 
