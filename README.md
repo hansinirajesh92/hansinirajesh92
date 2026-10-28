@@ -3,7 +3,7 @@ Applied Statistics @ Cornell | CS background
 
 ## Currently
 - incessantly searching for jobs 
-- learning more and more about quant trading
+- i like ML
 
 you should definitely check out my website.
 
